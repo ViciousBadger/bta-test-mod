@@ -1,6 +1,12 @@
 .gradle/
 .idea/
+.settings/
 build/
 out/
 run/
 run-server/
+bin/
+
+.classpath
+.factorypath
+.project
